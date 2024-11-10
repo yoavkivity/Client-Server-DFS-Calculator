@@ -1,7 +1,3 @@
-// Yoav Kivity 206745531
-// Yakir Zindani 207872664
-// Daniel Elnekave 208267096
-
 #include <arpa/inet.h>
 #include <netdb.h>
 #include <netinet/in.h>
